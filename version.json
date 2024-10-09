@@ -1,5 +1,5 @@
 {
   "latest_version": "1.1.0",
-  "download_url": "https://github.com/YOUR_REPO/downloads/app_v1.1.0.exe"
-  "active" : "True"
+  "download_url": "https://raw.githubusercontent.com/Gee-had/updates/refs/heads/main/downloads/test.json"
+  "active": "True"
 }
